@@ -1,0 +1,23 @@
+citHeader("To cite CTD in publications use:")
+
+citEntry(entry = "Article",
+  title        = "CTD: an information-theoretic algorithm to interpret sets of metabolomic and transcriptomic perturbations in the context of graphical models.",
+  author       = personList(as.person("Lillian R. Thistlethwaite"),
+                   as.person("Varduhi Petrosyan"), as.person("Xiqi Li"),
+		   as.person("Marcus J. Miller"), as.person("Sarah H. Elsea"),
+		   as.person("Aleksandar Milosavljevic")),
+  journal      = "PLoS Computational Biology",
+  year         = "2021",
+  volume       = "17",
+  number       = "1",
+  pages        = "e1008550",
+  url          = "https://doi.org/10.1371/journal.pcbi.1008550",
+
+  textVersion  =
+  paste("Thistlethwaite LR, Petrosyan V, Li X, Miller MJ, Elsea SH,",
+	"Milosavljevic A. (2021). CTD: An information-theoretic ",
+	"algorithm to interpret sets of metabolomic and transcriptomic",
+	" perturbations in the context of graphical models. PLoS Comput",
+	" Biol 17(1): e1008550.",
+	"https://doi.org/10.1371/ journal.pcbi.1008550")
+)
