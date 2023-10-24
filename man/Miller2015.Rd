@@ -12,7 +12,6 @@ diagnosis confirmed for each patient sample.
 }
 \source{
 Supporting Information: jimd1029-sup-0001.xls
-(\href{https://tinyurl.com/yypsbghe}{Dataset})
 }
 \usage{
 data(Miller2015)

@@ -1,4 +1,4 @@
-217f0311432f5defb5742e09a1d81395 *DESCRIPTION
+58530718bdfa3931b6d8e27b2fadf351 *DESCRIPTION
 5fbdb9ecb242eee0cf105c7086ed4ae0 *LICENSE
 ab62f9bfe3c84dcd0620169340007ac1 *NAMESPACE
 7ae57851df4f86675abdc4106b6d5b65 *NEWS
@@ -30,11 +30,10 @@ ffe68573ba53995cea26eaf246dcfe3b *build/vignette.rds
 8996fba0369da8a175939de80c26f492 *data/Thistlethwaite2020.RData
 0cb0616846e5d5e40adc254be6700c89 *data/Wangler2017.RData
 59ba4c89f6dc439efe5e416d02b93281 *data/cohorts_coded.RData
-4aa517cf1b3d508736f150bfae9c195d *inst/CITATION
+8f2c6c1819ce9f1746f6f5413ef76e9b *inst/CITATION
 8a996b6afe4c95e338d35f516887459a *inst/doc/CTD_Lab-Exercise.R
-b9673c2d6a24c5d707dfdad6030be6ad *inst/doc/CTD_Lab-Exercise.Rmd
 7553e01008589842d6c5d5542b6db9a1 *inst/doc/CTD_Lab-Exercise.pdf
-3bdb2c1778deb8f55b0106f69cf5d6ea *man/Miller2015.Rd
+9cdeea5b4374f7efc8f6d5f7113d275e *man/Miller2015.Rd
 2a0ab123c97bf9165fe954d79d1a1f58 *man/Thistlethwaite2020.Rd
 f078141c97ede6fd7e1d63c3ff499681 *man/Wangler2017.Rd
 ea29c73be4af7728f27d5b05ff57cbe1 *man/cohorts_coded.Rd
@@ -58,6 +57,3 @@ d5d22da8fa66464014091905b09f354c *man/stat.entropyFunction.Rd
 6a2cb10efa96d3c2f6d280beefa00dbf *man/stat.getDirSim.Rd
 1e8a369ac1a0c520682a57e1477413d0 *tests/testthat.R
 c8d16fc22ad68d17893b587cf45236e2 *tests/testthat/test-data.r
-b9673c2d6a24c5d707dfdad6030be6ad *vignettes/CTD_Lab-Exercise.Rmd
-02cae6e5ea8c853fcb3b5f7752d76341 *vignettes/images/probability_diffusion.png
-8f8bf11245b33e650c541e0bbf689909 *vignettes/r-env-setup-script.R
