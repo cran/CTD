@@ -1,4 +1,4 @@
-58530718bdfa3931b6d8e27b2fadf351 *DESCRIPTION
+260e15916fe0a9fd6cb3f66975e13aed *DESCRIPTION
 5fbdb9ecb242eee0cf105c7086ed4ae0 *LICENSE
 ab62f9bfe3c84dcd0620169340007ac1 *NAMESPACE
 7ae57851df4f86675abdc4106b6d5b65 *NEWS
@@ -24,14 +24,14 @@ a56a1bd4c7d392dc629d6326b16c6357 *R/multiNode.getNodeRanks.r
 201c2eb729486905de1d869093a26e6b *R/stat.entropyFunction.r
 7a28dd26e192de14d08636efbd941c31 *R/stat.fishersMethod.r
 aa86fdd9f28424cb14f2db2f4fe2d9bd *R/stat.getDirSim.r
-dbd5014ff133d8b894acc91683f186cd *README.md
-ffe68573ba53995cea26eaf246dcfe3b *build/vignette.rds
+1d11513c9d5ef5496c69944c0aef59cb *README.md
 1667866064ea300a2f71d3c8ec7138ae *data/Miller2015.RData
 8996fba0369da8a175939de80c26f492 *data/Thistlethwaite2020.RData
 0cb0616846e5d5e40adc254be6700c89 *data/Wangler2017.RData
 59ba4c89f6dc439efe5e416d02b93281 *data/cohorts_coded.RData
 8f2c6c1819ce9f1746f6f5413ef76e9b *inst/CITATION
 8a996b6afe4c95e338d35f516887459a *inst/doc/CTD_Lab-Exercise.R
+b9673c2d6a24c5d707dfdad6030be6ad *inst/doc/CTD_Lab-Exercise.Rmd
 7553e01008589842d6c5d5542b6db9a1 *inst/doc/CTD_Lab-Exercise.pdf
 9cdeea5b4374f7efc8f6d5f7113d275e *man/Miller2015.Rd
 2a0ab123c97bf9165fe954d79d1a1f58 *man/Thistlethwaite2020.Rd

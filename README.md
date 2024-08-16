@@ -10,7 +10,7 @@ Alternatively, particularly if you have an earlier version of R installed, you c
     install_github(“BRL-BCM/CTD”). 
 
 ### Look at the package Rmd vignette.
-Located in /vignette/CTD_Lab-Exercise.Rmd. It will take you across all the stages in the analysis pipeline, including:
+Located in /inst/doc/CTD_Lab-Exercise.Rmd. It will take you across all the stages in the analysis pipeline, including:
 1. Background knowledge graph generation.
 2. The encoding algorithm: including generating node permutations using a network walker, converting node permutations into bitstrings, and calculating the minimum encoding length between k codewords.
 3. Calculate the probability of a node subset based on the encoding length.
